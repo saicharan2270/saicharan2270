@@ -1,4 +1,4 @@
-Hi there 👋 I'm Saicharan Jogam
+# Hi there 👋 I'm Saicharan Jogam
   <br><br>🎓 B.Tech graduate specializing in AI & ML  <br>🧠 Actively exploring **Generative AI**, **LLMs**, **RAG pipelines**, and **LangChain frameworks**  <br><br>⚙️ I like building practical AI systems — from data processing to intelligent assistants.  <br>🚀 Interested in solving real-world problems using modern AI stacks and production-ready workflows.<br>
 
 
