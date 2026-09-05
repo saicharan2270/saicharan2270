@@ -145,18 +145,6 @@
 
 ---
 
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan2270&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
 <p align="center">
 
 ### 🚀 Building robust software systems and integrating AI where it adds real value.
@@ -164,7 +152,7 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saicharan2270&limit=5&theme=dark&combine_all_yearly_contributions=true)
+(https://github.com/saicharan2270/Email-Automation-Agent))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saicharan2270&icon=0&color=0)](https://visitcount.itsvg.in)
